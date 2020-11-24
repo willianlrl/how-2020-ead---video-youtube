@@ -1,0 +1,4 @@
+Para funcionar o software sem erros, crie uma pasta com o nome LocadoraVeiculos no disco local:
+C:\
+Copiar os arquivos locadoraDB.mdf e locadoraDB_log.ldf que se encontra na pasta "Leia aqui" para a pasta LocadoraVeiculos no disco local.
+C:\LocadoraVeiculos
